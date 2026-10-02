@@ -1,8 +1,8 @@
-<h1 align="center">Detaxe - FrontEnd Developer Portfolio</h1>
+<h1 align="center">Detaxe — Frontend Developer</h1>
 
 ###
 
-<h3 align="center">I'm web developer focused on building modern, practical, and responsive interfaces.</h3>
+<h3 align="center">I build modern, performant, and accessible web interfaces with React and TypeScript.</h3>
 
 ###
 
@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">- 📌  Junior Frontend Developer with expirience on React ecosystem.<br>- 🎯 Specialized in building responsive, user-friendly web applications with React.<br>- 🛠 Currently exploring Next.js and modern frontend tools  <br>- 💡 Open to collaboration on real-world projects to grow as a developer</p>
+<p align="left">
+- Frontend developer specializing in the React ecosystem and TypeScript<br>
+- Experience delivering responsive, maintainable UIs and collaborating with design and backend teams<br>
+- Building with Next.js, Tailwind CSS, and modern tooling in production-oriented workflows<br>
+- Open to meaningful collaboration on products where frontend quality and clarity matter
+</p>
 
 ###
 
@@ -28,6 +33,8 @@
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
@@ -61,10 +68,10 @@
 ###
 
 <div align="left">
-  <a href="@Detaxe" target="_blank">
+  <a href="https://t.me/Detaxe" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="detaxexnero@gmail.com" target="_blank">
+  <a href="mailto:detaxexnero@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
