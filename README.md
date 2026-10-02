@@ -1,74 +1,68 @@
-<h1 align="center">Detaxe - FrontEnd Developer Portfolio</h1>
-
-###
-
-<h3 align="center">I'm web developer focused on building modern, practical, and responsive interfaces.</h3>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">- 📌  Junior Frontend Developer with expirience on React ecosystem.<br>- 🎯 Specialized in building responsive, user-friendly web applications with React.<br>- 🛠 Currently exploring Next.js and modern frontend tools  <br>- 💡 Open to collaboration on real-world projects to grow as a developer</p>
-
-###
-
-<h2 align="left">Tech Stack</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+<div align="center">
+# Detaxe
+**Frontend Developer Portfolio**
+Modern, practical, and responsive web interfaces — built with care.
+[![Telegram](https://img.shields.io/badge/Telegram-@Detaxe-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Detaxe)
+[![Email](https://img.shields.io/badge/Email-detaxexnero@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:detaxexnero@gmail.com)
 </div>
-
-###
-
-<h2 align="left">Tools & Other Skills</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h2 align="left">Contact</h2>
-
-###
-
-<div align="left">
-  <a href="@Detaxe" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+---
+## About me
+I'm a **Junior Frontend Developer** with hands-on experience in the **React ecosystem**. I focus on responsive, user-friendly web applications and clean UI implementation.
+- Specialized in **React** and component-driven development  
+- Comfortable with **TypeScript**, **Tailwind CSS**, and modern CSS workflows  
+- Currently exploring **Next.js** and the broader frontend tooling landscape  
+- Open to **collaboration** on real-world projects to grow as a developer  
+---
+## Tech stack
+**Core**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" height="36" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="36" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" height="36" alt="React" />
+</p>
+**Styling & UI**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="Bootstrap" />
+</p>
+**Backend & tooling**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" height="36" alt="Git" />
+</p>
+---
+## Tools & other skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="36" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="36" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=blender" height="36" alt="Blender" />
+</p>
+| Area        | Tools                          |
+| ----------- | ------------------------------ |
+| Design      | Figma                          |
+| Mobile      | Flutter (learning / side use)  |
+| 3D          | Blender                        |
+| Version control | Git                        |
+---
+## Contact
+| Channel   | Link |
+| --------- | ---- |
+| Telegram  | [@Detaxe](https://t.me/Detaxe) |
+| Email     | [detaxexnero@gmail.com](mailto:detaxexnero@gmail.com) |
+<p align="left">
+  <a href="https://t.me/Detaxe" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="48" height="36" alt="Telegram" />
   </a>
-  <a href="detaxexnero@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  &nbsp;
+  <a href="mailto:detaxexnero@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="Gmail" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+</p>
+> LinkedIn and Behance — add profile URLs here when you are ready.
+---
+<div align="center">
+<sub>Detaxe · Frontend Developer</sub>
 </div>
-
-###
